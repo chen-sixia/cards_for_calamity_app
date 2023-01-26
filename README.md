@@ -16,7 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## UI
-- Figma Link (WIP): https://www.figma.com/file/a6adR69EnIUDcIVBE1i4L7/Cards-For-Calamity-App?node-id=27%3A37
+- [Figma Link (WIP 🚧 )](https://www.figma.com/file/a6adR69EnIUDcIVBE1i4L7/Cards-For-Calamity-App?node-id=27%3A37)
 
 |  drawer  | card stack |
 |-----|-----|
